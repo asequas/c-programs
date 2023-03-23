@@ -1,4 +1,4 @@
-// function to reverse an integer
+// function to reverse an integer.
 #include <stdio.h>
 
 int rev(int n);
